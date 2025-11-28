@@ -1,0 +1,5 @@
+{
+  "name": "Window Assembly Visualizer",
+  "description": "An interactive 3D visualization of an architectural window assembly process, featuring playback controls and exploded view animation.",
+  "requestFramePermissions": []
+}
